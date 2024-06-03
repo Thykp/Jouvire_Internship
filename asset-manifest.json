@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Thykp/Jouvire_Internship/static/css/main.82f0e923.css",
-    "main.js": "/Thykp/Jouvire_Internship/static/js/main.add9c8a5.js",
-    "static/js/453.3786399e.chunk.js": "/Thykp/Jouvire_Internship/static/js/453.3786399e.chunk.js",
-    "index.html": "/Thykp/Jouvire_Internship/index.html",
-    "main.82f0e923.css.map": "/Thykp/Jouvire_Internship/static/css/main.82f0e923.css.map",
-    "main.add9c8a5.js.map": "/Thykp/Jouvire_Internship/static/js/main.add9c8a5.js.map",
-    "453.3786399e.chunk.js.map": "/Thykp/Jouvire_Internship/static/js/453.3786399e.chunk.js.map"
+    "main.css": "/Jouvire_Internship/static/css/main.82f0e923.css",
+    "main.js": "/Jouvire_Internship/static/js/main.39d7c587.js",
+    "static/js/453.3786399e.chunk.js": "/Jouvire_Internship/static/js/453.3786399e.chunk.js",
+    "index.html": "/Jouvire_Internship/index.html",
+    "main.82f0e923.css.map": "/Jouvire_Internship/static/css/main.82f0e923.css.map",
+    "main.39d7c587.js.map": "/Jouvire_Internship/static/js/main.39d7c587.js.map",
+    "453.3786399e.chunk.js.map": "/Jouvire_Internship/static/js/453.3786399e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.82f0e923.css",
-    "static/js/main.add9c8a5.js"
+    "static/js/main.39d7c587.js"
   ]
 }
