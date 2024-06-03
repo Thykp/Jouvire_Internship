@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Thykp/Jouvire_Internship/static/css/main.82f0e923.css",
+    "main.js": "/Thykp/Jouvire_Internship/static/js/main.add9c8a5.js",
+    "static/js/453.3786399e.chunk.js": "/Thykp/Jouvire_Internship/static/js/453.3786399e.chunk.js",
+    "index.html": "/Thykp/Jouvire_Internship/index.html",
+    "main.82f0e923.css.map": "/Thykp/Jouvire_Internship/static/css/main.82f0e923.css.map",
+    "main.add9c8a5.js.map": "/Thykp/Jouvire_Internship/static/js/main.add9c8a5.js.map",
+    "453.3786399e.chunk.js.map": "/Thykp/Jouvire_Internship/static/js/453.3786399e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.82f0e923.css",
+    "static/js/main.add9c8a5.js"
+  ]
+}
