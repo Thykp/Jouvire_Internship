@@ -1,6 +1,6 @@
 # Jouvire_Internship
-Hi! This is my take home assignment for the pyramid tictactoe
-I have deployed it onto Github Pages
+Hi! This is my take on a pyramid tictactoe <br>
+I have deployed it onto Github Pages as well: https://thykp.github.io/Jouvire_Internship/ <br>
 If you want to run it seperately on your own device:
 1. cd pyramid
 2. npm install
